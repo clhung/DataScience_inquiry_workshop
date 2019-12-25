@@ -1,0 +1,11 @@
+ID,Temperature,Wind,RH,Population,pm25_class
+C1,High,Low,Low,Low,0
+C2,Average,Low,Low,Low,0
+C3,High,High,High,Low,0
+C4,Average,Low,High,High,0
+C5,Low,Average,High,High,0
+C6,High,Average,Average,Low,0
+C7,Low,Average,Average,Low,0
+C8,Average,High,Average,Average,1
+C9,Average,High,High,Low,1
+C10,Average,High,High,High,1
