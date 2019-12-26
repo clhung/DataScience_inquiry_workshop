@@ -30,4 +30,7 @@ During the second day of the workshop, students will also use two linear models 
 ## Highlights
 
 Students explore parameters of a linear model and the resulting mean squared errors.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/clhung/DataScience_inquiry_workshop/lm_example.png "")
+
+Students construct confusion matrix of decision tree models.
+![alt text](https://github.com/clhung/DataScience_inquiry_workshop/confusion_matrix.png "")
